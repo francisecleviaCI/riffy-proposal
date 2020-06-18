@@ -17,4 +17,4 @@ App will also be able to recommend how much more the user should save to attain 
 
 Stretch Goals - 
     1. Take the historical spend on housing and automatically show a map in NYC or the recommended place of retirement
-    2. 
+    2. Based off user inputs of what they like to spend money on and/or interest, the app will recommend what neighborhood/borough to live in.
